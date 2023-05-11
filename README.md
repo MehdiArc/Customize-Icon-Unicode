@@ -1,2 +1,2 @@
 # Customize-Icon-Unicode
-🔜 Soon 
+🔜 > Soon we will teach Unicode customization for Minecraft (Resource)
